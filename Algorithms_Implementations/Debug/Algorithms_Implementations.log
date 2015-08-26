@@ -1,4 +1,4 @@
-﻿Build started 24-08-2015 23:42:10.
+﻿Build started 26-08-2015 10:27:02.
      1>Project "C:\Users\Rajmohan\Documents\GitHub\Algorithms_Implementation\Algorithms_Implementations\Algorithms_Implementations\Algorithms_Implementations.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\Algorithms_Implementations.unsuccessfulbuild" because "AlwaysCreate" was specified.
@@ -23,4 +23,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:01.40
+Time Elapsed 00:00:00.93
